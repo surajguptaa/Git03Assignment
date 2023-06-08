@@ -16,9 +16,9 @@ npm install
 npm run start
 ```
 # Run tests
-
-npm run [test]()
-
+```
+npm run test
+```
 # Author
 #### 🤵 Franck Abgrall
 * Twitter: [@franckabgrall]()
