@@ -35,4 +35,4 @@ This project is [MIT]() licensed.
 
 ---
 
-This README was generated with 🧡 by [franckabgrall]() 
+This README was generated with 🧡 by [readme-md-generator]() 
