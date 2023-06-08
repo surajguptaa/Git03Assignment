@@ -5,7 +5,8 @@
 [![documentation](https://img.shields.io/badge/documentation-yes-green.svg)](https://semver.org)
 [![maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://semver.org)
 [![MIT Licence](https://img.shields.io/badge/Licence-MIT-yellow.svg)](https://semver.org)
-
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40franckabgrall)](https://twitter.com/bukotsunikki)
+[![MIT Licence](https://img.shields.io/badge/213-white.svg)](https://semver.org)
 >CLI that generates beautiful README.md files.
 
 # 🏠 [Homepage]()
