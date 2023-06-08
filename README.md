@@ -1,4 +1,4 @@
-<h1 align="center> # Welcome to readme-md-generator👋</h1>
+<h1 align="center> Welcome to readme-md-generator👋</h1>
 
 >CLI that generates beautiful README.md files.
 
